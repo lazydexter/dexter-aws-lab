@@ -1,5 +1,5 @@
 
-# 🛡️ MCBTA: AWS Logging and Monitoring Lab Setup
+# 🛡️  AWS Logging and Monitoring Lab Setup
 
 This lab demonstrates end-to-end AWS log ingestion using CloudTrail → S3 → SQS → Filebeat → ELK for threat detection and monitoring.
 
