@@ -41,4 +41,5 @@ event.action : "StopLogging"
 
 All screenshots used in this lab are available in the `screenshots/` directory.
 
+
 ---
