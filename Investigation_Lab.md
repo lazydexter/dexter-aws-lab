@@ -41,5 +41,21 @@ event.action : "StopLogging"
 
 All screenshots used in this lab are available in the `screenshots/` directory.
 
+<img width="615" height="199" alt="image" src="https://github.com/user-attachments/assets/dc0e67aa-6780-4020-bfbd-c66805ba63da" />
+
+<img width="618" height="127" alt="image" src="https://github.com/user-attachments/assets/14fe3c0a-f3ca-4202-94fc-5114e20fcab0" />
+
+<img width="611" height="251" alt="image" src="https://github.com/user-attachments/assets/33f5922c-eb3d-49f8-b363-3c9981fb6228" />
+
+<img width="618" height="127" alt="image" src="https://github.com/user-attachments/assets/0e392d06-c1a5-4121-a283-4511985e5a50" />
+
+<img width="615" height="216" alt="image" src="https://github.com/user-attachments/assets/2f48103b-b171-43ca-9f2b-a5ce565092d7" />
+
+<img width="609" height="121" alt="image" src="https://github.com/user-attachments/assets/95bb7bf8-be1f-4e79-b282-6223dff476d2" />
+
+<img width="599" height="178" alt="image" src="https://github.com/user-attachments/assets/e4dacdd1-aa7c-4d14-a8a0-eed79d7a5992" />
+
+<img width="603" height="99" alt="image" src="https://github.com/user-attachments/assets/bd9b1312-07a9-4674-890b-29f366626a1e" />
+
 
 ---
